@@ -1,2 +1,2 @@
 # Diffusion
-A chemical diffusion code based explicit finite difference method
+A chemical diffusion code based on the explicit finite difference method
